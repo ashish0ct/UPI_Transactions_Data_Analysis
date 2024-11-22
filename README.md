@@ -80,3 +80,19 @@ The report has been published to Power BI Service, enabling:
 - Implement AI-driven insights
 - Create mobile-optimized view
 - Add real-time data refresh capabilities
+
+## Key Points
+
+- Developed interactive Power BI dashboard for UPI transaction analysis
+- Implemented multi-dimensional data filtering using various slicers
+- Created dynamic visualizations for transaction and balance trends
+- Utilized DAX for custom calculations and data modeling
+- Designed responsive layouts for improved user experience
+- Implemented cross-page filtering and slicer synchronization
+- Utilized bookmarks for flexible chart navigation
+- Applied conditional formatting for enhanced data representation
+- Integrated dashboard with Power BI Service for wider accessibility
+- Performed data profiling to understand transaction patterns
+- Optimized dashboard performance for large datasets
+- Demonstrated proficiency in data visualization best practices
+- Showcased ability to derive actionable insights from complex financial data
