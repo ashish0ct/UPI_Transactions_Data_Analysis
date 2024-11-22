@@ -1,0 +1,10 @@
+data profiling
+understanding and formatting size and position of slicers
+creating new column using DAX
+adding a filter for both pages
+learn about syncing slicers of different pages
+learn about conditional formatting using cell elements present in visualizations pane
+
+creating bookmarks and gives user flexibility between Transactions by Month [Line], Transactions by Month [Column], Balance by Month [Line], Balance by [Column] charts using Bookmark navigator.
+
+
